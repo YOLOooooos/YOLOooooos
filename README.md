@@ -22,6 +22,8 @@
 
 它不是头像生成器，而是尝试把“风格选择、参考图、候选 IP、文章配图位置判断、个人专属 Skill 导出”串成一个完整流程。
 
+我用一篇 AI 工作流文章跑了第一轮案例：生成 `Circuit Guide` 这个电路向导，并从 8 个段落里选出 3 个真正值得配图的位置。
+
 Repo: https://github.com/YOLOooooos/personal-ip-illustrator
 
 ## 我更愿意做的东西
